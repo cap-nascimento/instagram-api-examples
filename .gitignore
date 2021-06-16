@@ -1,0 +1,8 @@
+# unnecessary
+__pycache__/
+
+# virtual envs
+ENV/
+
+# you can't see hehe
+config.py
